@@ -35,8 +35,8 @@ http: //arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 ✅ follow me 
+https://akashdip2001.github.io/linktree/
 
-https://linktr.ee/AkashdipMahapatra
 
 
 **Nodemcu - https://amzn.to/3xIZQ7h** ,
