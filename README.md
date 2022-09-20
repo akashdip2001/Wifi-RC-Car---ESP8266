@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
-- 🔭 I’m currently working on [**my web-site**](https://linktr.ee/AkashdipMahapatra)
+- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 -------------------------------------------------------------------------------------------------------------------------------
 # Wifi-RC-Car---ESP8266
 Wifi RC Car - ESP8266
